@@ -1,28 +1,37 @@
 # Smart Attendance Management System using Face Recognition
 
-## 📖 Description
-The Smart Attendance Management System is a Python-based application that uses Face Recognition technology to automate attendance tracking. The system detects and recognizes registered faces through a webcam and marks attendance accurately, eliminating the need for manual attendance.
+> Description
 
-## ✨ Features
+The Smart Attendance Management System is a Python-based application that uses Face Recognition technology to automatically identify individuals and mark attendance accurately.
+
+---
+
+## Features
+
 - Face Detection
 - Face Recognition
 - Automatic Attendance Marking
 - User Registration
 - Attendance Record Management
 - Real-Time Recognition
-- Easy-to-use Interface
+- User-Friendly Interface
 
-## 🛠 Technologies Used
+---
+
+## Technologies Used
+
 - Python
 - OpenCV
 - face_recognition
 - NumPy
 - Pandas
-- Tkinter (GUI)
+- Tkinter
 
-## 📂 Project Structure
+---
 
-```
+## Project Structure
+
+```text
 Smart-Attendance-Management-System/
 │── app.py
 │── main.py
@@ -33,7 +42,9 @@ Smart-Attendance-Management-System/
 │── images/
 ```
 
-## 🚀 Installation
+---
+
+## Installation
 
 1. Clone the repository
 
@@ -53,9 +64,9 @@ cd Smart-Attendance-management-system
 pip install -r requirements.txt
 ```
 
-## ▶️ Run the Project
+---
 
-Run either of the following:
+## Run the Project
 
 ```bash
 python app.py
@@ -67,26 +78,31 @@ or
 python main.py
 ```
 
-## 📌 Applications
+---
 
-- College Attendance
+## Applications
+
 - School Attendance
+- College Attendance
 - Office Employee Attendance
 - Training Institutes
 - Secure Identity Verification
 
-## 🔮 Future Improvements
+---
 
-- Database Integration (MySQL)
+## Future Improvements
+
+- Database Integration
 - Cloud Attendance Storage
 - Email Attendance Reports
 - Mobile Application
 - Multi-Camera Support
 - Face Mask Recognition
-- QR Code Integration
 
-## 👩‍💻 Author
+---
 
-**Lalithya R Kumar**
+## Author
+
+Lalithya R Kumar
 
 GitHub: https://github.com/lalithyarkumar
